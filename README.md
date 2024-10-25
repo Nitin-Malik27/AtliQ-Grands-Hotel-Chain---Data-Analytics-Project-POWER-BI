@@ -45,6 +45,8 @@ I am a data analyst who has been provided with sample data and a mock-up dashboa
 1. **Create the metrics** according to the metric list.
 2. **Create a dashboard** according to the mock-up provided by stakeholders.
 3. **Create relevant insights** that are not provided in the metric list/mock-up dashboard.
+   # dashboard link
+   (https://app.powerbi.com/view?r=eyJrIjoiOGMxMTNjNDUtNTJlYy00ZWRjLWJkNzQtZmQ3YWM2Y2M4NmU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
    
 # dashboard photos 
 **home page**![alt text](https://github.com/Nitin-Malik27/AtliQ-Grands-Hotel-Chain---Data-Analytics-Project-POWER-BI/blob/main/dashboard%20photos/home%20page.png)
