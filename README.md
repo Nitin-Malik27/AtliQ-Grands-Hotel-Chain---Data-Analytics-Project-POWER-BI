@@ -56,44 +56,44 @@ I am a data analyst who has been provided with sample data and a mock-up dashboa
 # INSIGHTS
 **AtliQ Exotica, Mumbai:**
 
-Highest revenue (₹210M) and average rating (4.32).
-Good revenue generation and customer satisfaction.
-Replicate business model to other cities.
-Improve feedback and ratings to maintain good reputation0
+Highest revenue (₹210M) and average rating (4.32).<br>
+Good revenue generation and customer satisfaction.<br>
+Replicate business model to other cities.<br>
+Improve feedback and ratings to maintain good reputation0<br>
 
 **AtliQ Exotica, Hyderabad:**
-Lowest revenue (₹47M) and average rating (2.33) and lowest RevPAR(4061.33 INR)
-Good service but poor revenue generation.
-Analyze reasons for low revenue.
-Improve pricing strategy.
+Lowest revenue (₹47M) and average rating (2.33) and lowest RevPAR(4061.33 INR)<br>
+Good service but poor revenue generation.<br>
+Analyze reasons for low revenue.<br>
+Improve pricing strategy.<br>
 
 **AtliQ palace, Mumbai:** 
-highest RevPAR(10592 INR)
-Average rating (4.3).
-Good customer satisfaction but higher ADR on weekends.
-Implement dynamic pricing to increase revenue.
+highest RevPAR(10592 INR)<br>
+Average rating (4.3).<br>
+Good customer satisfaction but higher ADR on weekends.<br>
+Implement dynamic pricing to increase revenue.<br>
 
 **AtliQ grands :delhi**
-lowest revenue but still average rating-4.25
-failed to generate good revenue,discussion with manager is necessary to realise the potential
+lowest revenue but still average rating-4.25<br>
+failed to generate good revenue,discussion with manager is necessary to realise the potential<br>
 
 
 **ADR:** 
-Direct Offline booking channel has the highest ADR(12.8k).
-Direct Online booking channel has the lowest ADR (12.6k).
-Realization% is almost the same for all hotels.
-Direct Offline booking channel generates the lowest revenue.
-'Others' booking channel generates the highest revenue.
-Atliq Seasons in Mumbai: 
-Has the lowest Average Rating of 2.30.
-ADR is decent at around 16.5k.
+Direct Offline booking channel has the highest ADR(12.8k).<br>
+Direct Online booking channel has the lowest ADR (12.6k).<br>
+Realization% is almost the same for all hotels.<br>
+Direct Offline booking channel generates the lowest revenue.<br>
+'Others' booking channel generates the highest revenue.<br>
+**Atliq Seasons in Mumbai:** <br>
+Has the lowest Average Rating of 2.30.<br>
+ADR is decent at around 16.5k.<br>
 
 **Weekends vs. Weekdays:** 
-Average Daily Rate (ADR) is almost the same for both.
-Might indicate a lack of dynamic pricing strategy.
-ADR for weekends should typically be higher than weekdays.
-Revenue by Hotel Category and Room Category: 
-61.62% of revenue comes from Luxury hotels.
-38.38% of revenue comes from Business hotels.
-Elite room category contributes the most (32.81%).
-Standard Classrooms contribute the least (18.11%)
+Average Daily Rate (ADR) is almost the same for both.<br>
+Might indicate a lack of dynamic pricing strategy.<br>
+ADR for weekends should typically be higher than weekdays.<br>
+Revenue by Hotel Category and Room Category: <br>
+61.62% of revenue comes from Luxury hotels.<br>
+38.38% of revenue comes from Business hotels.<br>
+Elite room category contributes the most (32.81%).<br>
+Standard Classrooms contribute the least (18.11%)<br>
