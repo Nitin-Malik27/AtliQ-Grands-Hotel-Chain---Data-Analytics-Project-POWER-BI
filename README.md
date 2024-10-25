@@ -47,8 +47,8 @@ I am a data analyst who has been provided with sample data and a mock-up dashboa
 3. **Create relevant insights** that are not provided in the metric list/mock-up dashboard.
    
 # dashboard photos 
-**home page**(https://github.com/Nitin-Malik27/AtliQ-Grands-Hotel-Chain---Data-Analytics-Project-POWER-BI/blob/main/dashboard%20photos/home%20page.png)
-**page1**(https://github.com/Nitin-Malik27/AtliQ-Grands-Hotel-Chain---Data-Analytics-Project-POWER-BI/blob/main/dashboard%20photos/page%201.png)
-**page2**(https://github.com/Nitin-Malik27/AtliQ-Grands-Hotel-Chain---Data-Analytics-Project-POWER-BI/blob/main/dashboard%20photos/page%202.png)
-**insights**(https://github.com/Nitin-Malik27/AtliQ-Grands-Hotel-Chain---Data-Analytics-Project-POWER-BI/blob/main/dashboard%20photos/insights.png)
+**home page**![alt text](https://github.com/Nitin-Malik27/AtliQ-Grands-Hotel-Chain---Data-Analytics-Project-POWER-BI/blob/main/dashboard%20photos/home%20page.png)
+**page1**![alt text](https://github.com/Nitin-Malik27/AtliQ-Grands-Hotel-Chain---Data-Analytics-Project-POWER-BI/blob/main/dashboard%20photos/page%201.png)
+**page2**![alt text](https://github.com/Nitin-Malik27/AtliQ-Grands-Hotel-Chain---Data-Analytics-Project-POWER-BI/blob/main/dashboard%20photos/page%202.png)
+**insights**![alt text](https://github.com/Nitin-Malik27/AtliQ-Grands-Hotel-Chain---Data-Analytics-Project-POWER-BI/blob/main/dashboard%20photos/insights.png)
 
