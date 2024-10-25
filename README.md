@@ -31,4 +31,4 @@ Bookings are made through **multiple channels**, such as:
 ---
 
 ## 🚩 Problem Statement:
-AtliQ Grands is **losing market share and revenue** due to **stiff competition**. To address this issue, the management is **shifting towards data-informed decision-making** by onboarding a **data analytics team**.
+
